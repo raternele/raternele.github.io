@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raternele.github.io/sitemap
+Sitemap: https://raternele.github.io/app/sitemap
+Sitemap: https://raternele.github.io/assets/sitemap
+Sitemap: https://raternele.github.io/css/sitemap
+Sitemap: https://raternele.github.io/includes/sitemap
+Sitemap: https://raternele.github.io/item/sitemap
+Sitemap: https://raternele.github.io/src/sitemap
